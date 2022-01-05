@@ -12,7 +12,15 @@
 ~h
 # Command Line History (newest to oldest):
 :q!
-|2,0,1641295430,,"q!"
+|2,0,1641411302,,"q!"
+:w!
+|2,0,1641411287,,"w!"
+:wt!
+|2,0,1641411283,,"wt!"
+:qt!
+|2,0,1641411203,,"qt!"
+:wt;
+|2,0,1641411182,,"wt;"
 :wq!
 |2,0,1641295419,,"wq!"
 :zz
@@ -29,7 +37,58 @@
 # Registers:
 
 # File marks:
+'0  3  28  ~/demo/code.txt
+|4,48,3,28,1641411302,"~/demo/code.txt"
+'1  3  28  ~/demo/code.txt
+|4,49,3,28,1641411294,"~/demo/code.txt"
+'2  1  0  ~/demo/code.txt
+|4,50,1,0,1641411231,"~/demo/code.txt"
+'3  1  0  ~/demo/code.txt
+|4,51,1,0,1641411231,"~/demo/code.txt"
+'4  1  0  ~/demo/code.txt
+|4,52,1,0,1641411231,"~/demo/code.txt"
+'5  1  0  ~/demo/code.txt
+|4,53,1,0,1641411231,"~/demo/code.txt"
+'6  10  25  ~/demo/code.txt
+|4,54,10,25,1641411207,"~/demo/code.txt"
+'7  10  25  ~/demo/code.txt
+|4,55,10,25,1641411207,"~/demo/code.txt"
+'8  10  25  ~/demo/code.txt
+|4,56,10,25,1641411207,"~/demo/code.txt"
+'9  10  25  ~/demo/code.txt
+|4,57,10,25,1641411207,"~/demo/code.txt"
 
 # Jumplist (newest first):
+-'  3  28  ~/demo/code.txt
+|4,39,3,28,1641411302,"~/demo/code.txt"
+-'  3  28  ~/demo/code.txt
+|4,39,3,28,1641411294,"~/demo/code.txt"
+-'  1  0  ~/demo/code.txt
+|4,39,1,0,1641411242,"~/demo/code.txt"
+-'  1  0  ~/demo/code.txt
+|4,39,1,0,1641411242,"~/demo/code.txt"
+-'  1  0  ~/demo/code.txt
+|4,39,1,0,1641411231,"~/demo/code.txt"
+-'  10  25  ~/demo/code.txt
+|4,39,10,25,1641411207,"~/demo/code.txt"
+-'  10  25  ~/demo/code.txt
+|4,39,10,25,1641411207,"~/demo/code.txt"
+-'  10  25  ~/demo/code.txt
+|4,39,10,25,1641411207,"~/demo/code.txt"
+-'  10  25  ~/demo/code.txt
+|4,39,10,25,1641411207,"~/demo/code.txt"
+-'  1  0  ~/demo/code.txt
+|4,39,1,0,1641411036,"~/demo/code.txt"
 
 # History of marks within files (newest to oldest):
+
+> ~/demo/code.txt
+	*	1641411299	0
+	"	3	28
+	^	3	29
+	.	3	28
+	+	8	24
+	+	7	0
+	+	11	0
+	+	10	26
+	+	3	28
